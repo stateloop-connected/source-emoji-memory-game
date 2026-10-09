@@ -1,0 +1,14 @@
+{
+  "build_script": "vite build",
+  "gameplay_or_asset_changes": false,
+  "lockfile": "package-lock.json",
+  "mode": "native_source_build",
+  "repository": "pushadapuvarshitha-blip/Emoji-Memory-Game-",
+  "schema_version": 1,
+  "source_changes": [
+    ".packaging/plan.json"
+  ],
+  "status": "ready",
+  "upstream_code_executed_locally": false,
+  "upstream_sha": "f736c2f4842ab5cbc8ed1b18869e5cf9f0780b4b"
+}
